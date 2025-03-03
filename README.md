@@ -1,11 +1,14 @@
-Assignment ML(22IT052)
+**Assignment ML(22IT052)**
 Step 1: Fork the file
 Step 2: Update your code in personal-api.py file
 ![Screenshot 2025-03-03 202559](https://github.com/user-attachments/assets/f50d3597-17a0-4dcc-a8b8-f13eea0b2705)
 
-Step 3: Run the command python personal-api.py and check the details
+Step 3: Run the command python personal-api.py and check the details:
+
 ![Screenshot 2025-03-03 202715](https://github.com/user-attachments/assets/1f40f1d1-09af-4099-9a88-1e3491fc1a06)
+
 ![Screenshot 2025-03-03 202733](https://github.com/user-attachments/assets/9099c5e2-a2bb-4c30-8782-2ccf5abccb39)
+
 ![Screenshot 2025-03-03 202757](https://github.com/user-attachments/assets/f53ebe7f-2b5c-43d0-bdef-f4fadedd3aab)
 
 Step 4: Run --> docker build -t personal-api .
@@ -27,12 +30,16 @@ Step 8: Run --> docker compose up and docker compose up -d
 ![image](https://github.com/user-attachments/assets/7cd33c21-1e98-4ab7-8f6e-29f3cd7342d1)
 
 Step 9: Test the output for me and friend
+
 Varuna:
+
+Name-registernumber-department:
 ![Screenshot 2025-03-03 214211](https://github.com/user-attachments/assets/fc588d26-3a6d-4aa4-90d5-977bcccfdcfd)
 ![Screenshot 2025-03-03 214334](https://github.com/user-attachments/assets/e442dcbf-ed46-4877-82b8-39d98e9d02d2)
 ![Screenshot 2025-03-03 214633](https://github.com/user-attachments/assets/0423d5f7-4728-48d8-b22d-04b168feaa90)
 
 Friend:
+Name-registernumber-department:
 ![Screenshot 2025-03-03 214227](https://github.com/user-attachments/assets/50c82e5f-71df-4bfa-8aa7-abbeb7ec358a)
 ![Screenshot 2025-03-03 214359](https://github.com/user-attachments/assets/32489b19-572f-4438-8a97-f2184a3c37ce)
 ![Screenshot 2025-03-03 214612](https://github.com/user-attachments/assets/b0f715e0-b9fd-47f8-9d68-29c0f060167b)
