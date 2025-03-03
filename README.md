@@ -1,4 +1,5 @@
 **Assignment ML(22IT052)**
+
 Step 1: Fork the file
 Step 2: Update your code in personal-api.py file
 ![Screenshot 2025-03-03 202559](https://github.com/user-attachments/assets/f50d3597-17a0-4dcc-a8b8-f13eea0b2705)
@@ -31,22 +32,23 @@ Step 8: Run --> docker compose up and docker compose up -d
 
 Step 9: Test the output for me and friend
 
-Varuna:
+## Varuna:
 
 Name-registernumber-department:
 ![Screenshot 2025-03-03 214211](https://github.com/user-attachments/assets/fc588d26-3a6d-4aa4-90d5-977bcccfdcfd)
 ![Screenshot 2025-03-03 214334](https://github.com/user-attachments/assets/e442dcbf-ed46-4877-82b8-39d98e9d02d2)
 ![Screenshot 2025-03-03 214633](https://github.com/user-attachments/assets/0423d5f7-4728-48d8-b22d-04b168feaa90)
 
-Friend:
+## Friend:
 Name-registernumber-department:
 ![Screenshot 2025-03-03 214227](https://github.com/user-attachments/assets/50c82e5f-71df-4bfa-8aa7-abbeb7ec358a)
 ![Screenshot 2025-03-03 214359](https://github.com/user-attachments/assets/32489b19-572f-4438-8a97-f2184a3c37ce)
 ![Screenshot 2025-03-03 214612](https://github.com/user-attachments/assets/b0f715e0-b9fd-47f8-9d68-29c0f060167b)
 ![Screenshot 2025-03-03 214537](https://github.com/user-attachments/assets/47aa0abd-bb32-4a77-8967-8de06bc4a43f)
 
-Step 10: Run the ml model
-Run --> docker build -t varunapriyas/22it052-ml-model:latest .
+# Run the ml model
+
+Step 10: Run --> docker build -t varunapriyas/22it052-ml-model:latest .
 ![Screenshot 2025-03-03 221211](https://github.com/user-attachments/assets/6042064c-3a10-434e-bece-616b1e03bee8)
 
 Run --> docker push varunapriyas/22it052-ml-model:latest
@@ -56,10 +58,10 @@ Run -->MAIN command:
 docker run varunapriyas/22it052-ml-model:latest
 ![Screenshot 2025-03-03 224059](https://github.com/user-attachments/assets/cf4c0d5b-98eb-4343-bf21-b03ed4024316)
 ![image](https://github.com/user-attachments/assets/81b1da31-1501-4dd9-b1b7-c0ee15ebd7cc)
-Images:
+**Images:**
 ![image](https://github.com/user-attachments/assets/eae03cf8-de30-4739-b383-73844975cebb)
 
-Login to DOCKER HUB
-USERname:varunapriyas
+# Login to DOCKER HUB
+## USERname:varunapriyas
 ![Screenshot 2025-03-03 224125](https://github.com/user-attachments/assets/3d27fb3b-6292-4d43-b909-148c40fb83c7)
 
