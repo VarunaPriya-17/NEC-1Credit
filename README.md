@@ -44,9 +44,11 @@ Name-registernumber-department:
 ![Screenshot 2025-03-03 214227](https://github.com/user-attachments/assets/50c82e5f-71df-4bfa-8aa7-abbeb7ec358a)
 ![Screenshot 2025-03-03 214359](https://github.com/user-attachments/assets/32489b19-572f-4438-8a97-f2184a3c37ce)
 ![Screenshot 2025-03-03 214612](https://github.com/user-attachments/assets/b0f715e0-b9fd-47f8-9d68-29c0f060167b)
+
+**container**
 ![Screenshot 2025-03-03 214537](https://github.com/user-attachments/assets/47aa0abd-bb32-4a77-8967-8de06bc4a43f)
 
-# Run the ml model
+# Run the ML model
 
 Step 10: Run --> docker build -t varunapriyas/22it052-ml-model:latest .
 ![Screenshot 2025-03-03 221211](https://github.com/user-attachments/assets/6042064c-3a10-434e-bece-616b1e03bee8)
