@@ -36,12 +36,14 @@ Step 9: Test the output for me and friend
 ## Varuna:
 
 Name-registernumber-department:
+
 ![Screenshot 2025-03-03 214211](https://github.com/user-attachments/assets/fc588d26-3a6d-4aa4-90d5-977bcccfdcfd)
 ![Screenshot 2025-03-03 214334](https://github.com/user-attachments/assets/e442dcbf-ed46-4877-82b8-39d98e9d02d2)
 ![Screenshot 2025-03-03 214633](https://github.com/user-attachments/assets/0423d5f7-4728-48d8-b22d-04b168feaa90)
 
 ## Friend:
 Name-registernumber-department:
+
 ![Screenshot 2025-03-03 214227](https://github.com/user-attachments/assets/50c82e5f-71df-4bfa-8aa7-abbeb7ec358a)
 ![Screenshot 2025-03-03 214359](https://github.com/user-attachments/assets/32489b19-572f-4438-8a97-f2184a3c37ce)
 ![Screenshot 2025-03-03 214612](https://github.com/user-attachments/assets/b0f715e0-b9fd-47f8-9d68-29c0f060167b)
